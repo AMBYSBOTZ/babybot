@@ -1,9 +1,9 @@
 {
    "sessionName": "ramlanid",
-   "ownerNumber": "6285559240360@s.whatsapp.net",
-   "ownerName": "Ramlan ID",
-   "botName": "BABY BOT",
-   "footer": "BABYBOT © 2022",
+   "ownerNumber": "628579826762l@s.whatsapp.net",
+   "ownerName": "Xiao San",
+   "botName": "AMBYS BOTZ",
+   "footer": "XIAO SAN © 2022",
    "butName": "YouTube",
    "butLink": "https://youtube.com/c/RAMLANID",   
    "pathThumb": "./temp/logo.jpg",
@@ -19,6 +19,6 @@
     "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
     "BotAdmin": "Bot Harus menjadi admin",
     "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyPrem": "Perintah ini khusus tetua ambys"
    }
 }
